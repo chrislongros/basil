@@ -1,0 +1,9 @@
+^basil\.Rproj$
+^\.Rproj\.user$
+^\.git$
+^\.gitignore$
+^.*\.tar\.gz$
+^.*\.Rcheck$
+^README\.md$
+^data-raw$
+^cran-comments\.md$
